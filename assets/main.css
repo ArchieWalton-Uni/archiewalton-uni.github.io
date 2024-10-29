@@ -1,0 +1,61 @@
+.sidebar {
+  margin: 0;
+  padding: 40px 20px;
+  width: 340px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidetext {
+  text-align: center;
+  font-size: 18pt;
+}
+
+.sidepara {
+  text-align: center;
+  font-size: 10pt;
+    margin: 5px;
+}
+
+body {
+  font-family: Open Sans;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+ width: 10em;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+h3 {
+  font-size: 12pt;
+  margin: 0;
+}
+
+p {
+ margin: 0;
+}
+
+.content {
+  margin-left: 380px;
+  padding: 20px 30px;
+}
+
+.content-box {
+  margin: 10px;
+  padding: 10px;
+  background-color: #eeeeee;
+}
+
+a {
+ color: #333;
+}
