@@ -37,13 +37,8 @@
 .sidepara {
   text-align: center;
   font-size: 10pt;
-    margin: 5px;
+    margin: 10px;
     color: #fff;
-}
-
-.contact {
-  display: inline-flex;
-  margin-left: 122px;
 }
 
 button {
@@ -52,6 +47,7 @@ button {
   border-color: white;
   border-radius: 5px;
   padding: 2px 5px;
+  margin: 5px;
 }
 
 body {
