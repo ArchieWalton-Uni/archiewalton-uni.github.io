@@ -46,8 +46,9 @@ button {
   color: white;
   border-color: white;
   border-radius: 5px;
-  padding: 2px 5px;
+  padding: 8px 20px;
   margin: 5px;
+  font-size: 12pt;
 }
 
 body {
