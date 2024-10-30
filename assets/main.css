@@ -41,6 +41,19 @@
     color: #fff;
 }
 
+.contact {
+  display: inline-flex;
+  margin-left: 122px;
+}
+
+button {
+  background-color: #241E4E;
+  color: white;
+  border-color: white;
+  border-radius: 5px;
+  padding: 2px 5px;
+}
+
 body {
   font-family: Open Sans;
   padding: 0;
